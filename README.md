@@ -1,2 +1,2 @@
-# SQL-Challenges & Tasks
+# LeetCode SQL Solution
 SQL-Tasks &amp; Challenges
