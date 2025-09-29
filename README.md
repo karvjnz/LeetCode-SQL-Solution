@@ -1,2 +1,2 @@
-# SQL-Challenge
-SQL-Interview Questions &amp; Challenges
+# SQL-Challenges & Tasks
+SQL-Tasks &amp; Challenges
